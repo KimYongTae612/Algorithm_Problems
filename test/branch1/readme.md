@@ -1,7 +1,17 @@
-# Main Title
+# 제목1
+## 제목2
+### Title3
+### 제목
 
-##Sub Title
-###Suub Title
-<p>This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).</p>
+---
 
-??
+줄바꾸기는
+엔터 두 번을
+
+해야한다.
+
+---
+구분선은 하이픈(-)이나 별(*)사용
+3개 이상 적으면 구분선으로 인식
+
+---
