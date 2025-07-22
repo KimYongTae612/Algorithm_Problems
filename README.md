@@ -1,2 +1,1 @@
-# Alorithm_Problems
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 나의 작은 낙서노트
